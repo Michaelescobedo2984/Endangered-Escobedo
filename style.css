@@ -1,11 +1,16 @@
 body{
     background-color:#ffd384;
+    font-family: Century;
 }
 
 h1{
-    color:#c15050
+    color: #c15050;
 }
+p{
+    color:#8e7f7f;
+    font-size: 20px;
 
-h2{
-    color:#c15050
+}
+b{
+    color:#222831;
 }
